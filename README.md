@@ -1,7 +1,7 @@
 # Hey! Nice to see you.
 
 Welcome to my page!
-i'm jonty,a junior C++ developer from 🇨🇳China, currently living in Hangzhou, Zhejiang.
+i'm jonty,a junior C++ developer from China, currently living in Hangzhou, Zhejiang.
 
 
 
